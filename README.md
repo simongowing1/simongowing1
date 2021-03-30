@@ -9,7 +9,7 @@ Somehow, for so long, working with code felt completely opposite to the path tha
 
 Once I realised this, I knew that I wanted to apply the same strategy to problems in the tech world – break down barriers and find creative solutions to innovative projects.
 
-<h2>
+<h3>
   <ul>
 <li>🔭 I’m currently working on a natural wine app for Berlin
 <li>🌱 I’m currently learning to write tests with Jest
