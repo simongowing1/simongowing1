@@ -15,4 +15,3 @@ Once I realised this, I knew that I wanted to apply the same strategy to problem
 <li>🌱 I’m currently learning to write tests with Jest
 <li>👯 I’m looking to collaborate on projects to improve the relationship between technology and users
 <li>🤔 I’m looking for help with finding my feet in this new world
-<h2/>
