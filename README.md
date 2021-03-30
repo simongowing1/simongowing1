@@ -11,9 +11,9 @@ Once I realised this, I knew that I wanted to apply the same strategy to problem
 
 <h2>
   <ul>
-- 🔭 I’m currently working on a natural wine app for Berlin
-- 🌱 I’m currently learning to write tests with Jest
-- 👯 I’m looking to collaborate on projects to improve the relationship between technology and users
-- 🤔 I’m looking for help with finding my feet in this new world
+<li>🔭 I’m currently working on a natural wine app for Berlin <li/>
+<li>🌱 I’m currently learning to write tests with Jest <li/>
+<li>👯 I’m looking to collaborate on projects to improve the relationship between technology and users <li/>
+<li>🤔 I’m looking for help with finding my feet in this new world <li/>
  <ul/>
 <h2/>
