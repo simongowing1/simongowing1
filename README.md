@@ -1,12 +1,16 @@
-### Hi there 👋
+### Hi, my name is Simon
+
+My interest in machines and applications started young, I was always taking toys apart to understand how they worked or making new tools out of useless objects.
+
+This creative curiosity took me via artschool into the world of galleries and exhibitions, where I worked for 10 years as a project manager, curator and gallery director.
+
+Somehow working with code felt so completely opposite to the industry that I worked in. It wasn't until recently that this mental barrier was broken down for me that I realised that programming can be just as creative an act as making art
 
 <!--
 **simongowing1/simongowing1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
