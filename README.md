@@ -1,6 +1,7 @@
 <h2> Hello, I am Simon 🤝
 
 <h4>My interest in machines and systems started young. I was always taking toys apart to understand how they worked 🧰 or inventing new tools out of useless objects.🛠<br/>
+  <br/>
 My father and I built my first computer together when I was 14 🖥  – a labour of love that *just* worked. ⚙️ But the process was half the journey. 🧭 <br/>
 
 This creative curiosity and love for making took me, via artschool 🎨, into the world of international galleries and exhibitions, where I worked for 10 years as a project manager, curator and gallery director. 🖼
