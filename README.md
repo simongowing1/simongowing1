@@ -10,8 +10,10 @@ Somehow, for so long, working with code felt completely opposite to the path tha
 Once I realised this, I knew that I wanted to apply the same strategy to problems in the tech world – break down barriers and find creative solutions to innovative projects.
 
 <h2>
+  <ul>
 - 🔭 I’m currently working on a natural wine app for Berlin
 - 🌱 I’m currently learning to write tests with Jest
 - 👯 I’m looking to collaborate on projects to improve the relationship between technology and users
 - 🤔 I’m looking for help with finding my feet in this new world
+ <ul/>
 <h2/>
