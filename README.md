@@ -1,8 +1,8 @@
 ### Hello, I am Simon 🤝
 
-###Always
-###Be
-###Creative
+### Always
+### Be
+### Creative
 
 My interest in machines and systems started young. I was always taking toys apart to understand how they worked 🧰 or inventing new tools out of useless objects.🛠
 
