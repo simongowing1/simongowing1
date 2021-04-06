@@ -1,6 +1,6 @@
 ### Hello, I am Simon 🤝
 
-
+![120514_cn-in-the-box_p465](https://user-images.githubusercontent.com/76006710/113735071-2c0e6d00-96fc-11eb-86c8-aa6d1ebc0aae.jpeg)
 
 ## Always being creative
 
@@ -16,3 +16,4 @@ Once I realised this, I knew that I wanted to apply the same strategy to problem
 - 🌱 I’m currently learning to write tests with Jest
 - 👾 I'm currently having fun with code every morning as part of Kater Klub 
 - 👯 I’m looking to collaborate on projects to improve the relationship between users and technology
+
