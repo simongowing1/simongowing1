@@ -1,5 +1,9 @@
 ### Hello, I am Simon 🤝
 
+###Always
+###Be
+###Creative
+
 My interest in machines and systems started young. I was always taking toys apart to understand how they worked 🧰 or inventing new tools out of useless objects.🛠
 
 This creative curiosity and love for making took me, via artschool 🎨, into the world of international galleries and exhibitions, where I worked for 10 years as a project manager, curator and gallery director. 🖼
