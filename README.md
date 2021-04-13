@@ -12,8 +12,7 @@ Somehow, for so long, working with code felt completely opposite to the path tha
 
 Once I realised this, I knew that I wanted to apply the same strategy to problems in the tech world – break down barriers and find creative solutions to innovative humane projects.
 
-- 🔭 I’m currently working on a natural wine app for Berlin
-- 🌱 I’m currently learning to write tests with Jest
-- 👾 I'm currently having fun with code every morning as part of Kater Klub 
-- 👯 I’m looking to collaborate on creative projects to improve the relationship between users and technology
-
+- 🔭 I’m currently working on a natural wine app for Berlin.
+- 🌱 I’m currently learning to write tests with Jest.
+- 👾 I'm currently having fun solving code challenges every morning with [Kater Klub](https://github.com/simongowing1/Katas "Kater Klub repo").
+- 👯 I’m looking to collaborate on creative projects to improve the relationship between users and technology.
