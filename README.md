@@ -15,5 +15,5 @@ Once I realised this, I knew that I wanted to apply the same strategy to problem
 - 🔭 I’m currently working on a natural wine app for Berlin
 - 🌱 I’m currently learning to write tests with Jest
 - 👾 I'm currently having fun with code every morning as part of Kater Klub 
-- 👯 I’m looking to collaborate on projects to improve the relationship between users and technology
+- 👯 I’m looking to collaborate on creative projects to improve the relationship between users and technology
 
