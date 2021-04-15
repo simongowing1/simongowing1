@@ -1,4 +1,6 @@
-### Hello, I am Simon 🤝
+# Hello, I am Simon 🤝
+
+## Let's [connect](mailto:simongowing1@gmail.com?subject=Hello)!
 
 ![120514_cn-in-the-box_p465](https://user-images.githubusercontent.com/76006710/113735071-2c0e6d00-96fc-11eb-86c8-aa6d1ebc0aae.jpeg)
 
@@ -12,7 +14,7 @@ Somehow, for so long, working with code felt completely opposite to the path tha
 
 Once I realised this, I knew that I wanted to apply the same strategy to problems in the tech world – break down barriers and find creative solutions to innovative humane projects.
 
-- 🔭 I’m currently working on a natural wine app for Berlin.
+- 🔭 I’m currently buukding a bug tracking app with fellow Alumni, using MERN and React Hooks.
 - 🌱 I’m currently learning to write tests with Jest.
 - 👾 I'm currently having fun solving code challenges every morning with the [Kater Klub](https://github.com/simongowing1/Katas "Kater Klub repo") that I started.
 - 👯 I’m looking to collaborate on creative projects to improve the relationship between users and technology.
