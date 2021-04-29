@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/76006710/116557093-68e61200-a8fe-11eb-93e7-c260e21f2eb0.png)
 
-## <span style="color:red">Always</br>Being</br>Creative</span>
+# Always</br>Being</br>Creative
 
 My interest in machines and systems started young. I was always taking toys apart to understand how they worked 🧰 or inventing new tools out of useless objects.🛠
 
