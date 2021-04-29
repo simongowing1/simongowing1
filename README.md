@@ -14,7 +14,10 @@ Somehow, for so long, working with code felt completely opposite to the path tha
 
 Once I realised this, I knew that I wanted to apply the same strategy to problems in the tech world – break down barriers and find creative solutions to innovative humane projects.
 
-- 🔭 I’m currently building a bug tracking app collaborating with other alumni, using the MERN, React Hooks and scalable server-side filtering.
-- 🌱 I’m currently learning to write tests with Jest.
-- 👾 I'm currently having fun solving code challenges every morning with the [Kater Klub](https://github.com/simongowing1/Katas "Kater Klub repo") that I started.
-- 👯 I’m looking to collaborate on creative projects to improve the relationship between users and technology.
+## I'm currently...
+
+- 🍄 ... planning a public service API called 'King for a Day API', connecting the iconic 1972 work by Bruce McLean to a new audience via a twitter bot
+- 🏗 ... collaboratively building a bug tracking app with other devs, using the MERN stack, React Hooks and scalable server-side filtering.
+- 🧪 ... learning to write tests with Jest.
+- 👾 ... having fun solving code challenges every morning with the [Kater Klub](https://github.com/simongowing1/Katas "Kater Klub repo")🙀 that I started.
+- 🎳 ... looking to collaborate on creative projects to improve the relationship between users and technology.
