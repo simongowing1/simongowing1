@@ -2,7 +2,7 @@
 
 ## Let's [connect](mailto:simongowing1@gmail.com?subject=Hello)!
 
-![120514_cn-in-the-box_p465](https://user-images.githubusercontent.com/76006710/113735071-2c0e6d00-96fc-11eb-86c8-aa6d1ebc0aae.jpeg)
+![image](https://user-images.githubusercontent.com/76006710/116557093-68e61200-a8fe-11eb-93e7-c260e21f2eb0.png)
 
 ## Always</br>Being</br>Creative
 
