@@ -1,4 +1,4 @@
-# Hello, I am Simon 🤝
+# Hello, I'm Simon 🤝
 
 ## Let's [connect](mailto:simongowing1@gmail.com?subject=Hello)!
 
