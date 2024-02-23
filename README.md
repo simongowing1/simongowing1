@@ -17,7 +17,4 @@ Once I realised this, I knew that I wanted to apply the same strategy to problem
 ## I'm currently...
 
 - 🍄  ... planning a public service API called 'King for a Day API', connecting the iconic 1972 artwork by Bruce McLean to a new audience via a twitter bot
-- 🏗  ... collaboratively building a bug tracking app with other devs, using the MERN stack, React Hooks and scalable server-side filtering.
-- 🧪  ... learning to write tests with Jest.
-- 👾  ... having fun solving code challenges every morning with the [Kater Klub](https://github.com/simongowing1/Katas "Kater Klub repo")🙀 that I started.
 - 🎳  ... looking to collaborate on creative projects to improve the relationship between users and technology.
