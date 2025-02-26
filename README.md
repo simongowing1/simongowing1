@@ -4,14 +4,13 @@ I am a creative-minded frontend developer and project manager with a passion for
 
 I am trained in object-orientated programming using Typescript, Next.js, JavaScript (ES6), MongoDB, Express.js, React.js, Node.js, HTML and CSS.
 
+## Selected projects in private client repos:
+
+[Cineamo, 2021 – 2024](https://www.cineamo.com/en)</br>
+[The Delecor, 2024](https://www.thedelecor.com/)</br>
+[The Berggruen Institute Library, 2024](https://berggruen.org/library)
+
 ## Let's [connect](mailto:simongowing1@gmail.com?subject=Hello)!
-
-# Selected Projects in private client repos:
-
-[Cineamo](https://www.cineamo.com/en)
-[The Delecor](https://www.thedelecor.com/)
-[The Berggruen Institute, Library](https://berggruen.org/library)
-
 
 ![image](https://user-images.githubusercontent.com/76006710/116557093-68e61200-a8fe-11eb-93e7-c260e21f2eb0.png)
 
