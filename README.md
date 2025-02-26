@@ -6,6 +6,13 @@ I am trained in object-orientated programming using Typescript, Next.js, JavaScr
 
 ## Let's [connect](mailto:simongowing1@gmail.com?subject=Hello)!
 
+# Selected Projects in private client repos:
+
+[Cineamo](https://www.cineamo.com/en)
+[The Delecor](https://www.thedelecor.com/)
+[The Berggruen Institute, Library](https://berggruen.org/library)
+
+
 ![image](https://user-images.githubusercontent.com/76006710/116557093-68e61200-a8fe-11eb-93e7-c260e21f2eb0.png)
 
 # Always</br>Being</br>Creative
