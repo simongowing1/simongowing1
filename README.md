@@ -9,6 +9,7 @@ I am trained in object-orientated programming using Typescript, Next.js, JavaScr
 + [Cineamo, 2021 – 2024](https://www.cineamo.com/en)</br>
 + [The Delecor, 2024](https://www.thedelecor.com/)</br>
 + [The Berggruen Institute Library, 2024](https://berggruen.org/library)
++ [Corpus Gallery, 2025](https://www.corpus-gallery.com/)
 
 ## Let's [connect](mailto:simongowing1@gmail.com?subject=Hello)!
 
